@@ -1,4 +1,6 @@
 KB::Application.routes.draw do
+  resources :reviews
+  resources :blogs
   root                "static_pages#home"
   get   'about'    => "static_pages#about"
   get   'contact'  => "static_pages#contact"

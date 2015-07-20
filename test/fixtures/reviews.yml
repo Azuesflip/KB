@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  data: 2015-07-16
+  title: MyString
+  rating: 1
+  director: MyString
+  movietitle: MyString
+  body: MyText
+
+two:
+  data: 2015-07-16
+  title: MyString
+  rating: 1
+  director: MyString
+  movietitle: MyString
+  body: MyText

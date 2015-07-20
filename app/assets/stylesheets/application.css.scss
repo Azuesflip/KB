@@ -15,6 +15,11 @@ html {
 	background-color: #999;
 }
 
+/* body */
+body {
+  background-color: #999;
+}
+
 /* header */
 .navbar-top {
   height: 57px;
@@ -22,10 +27,14 @@ html {
   background-color: black;
   border-radius: 22px;
   .container-header {
+    width: 50%;
     a {
       text-decoration: none;
       color: white;
-      font-family: cursive;
+      font-family: brushstroke, fantasy;
+      font-size: larger;
+      font-weight: bold;
+      font-style: italic;
       margin-left: 15px;
     }
   }
