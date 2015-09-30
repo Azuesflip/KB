@@ -30,6 +30,7 @@ body {
     width: 50%;
     a {
       text-decoration: none;
+      list-style-type: none !important;
       color: white;
       font-family: brushstroke, fantasy;
       font-size: larger;
@@ -40,6 +41,7 @@ body {
   }
   .navbar-right {
       li {
+          list-style: none;
           float: right;
           margin-top: -14px;
           margin-right: 1%;
